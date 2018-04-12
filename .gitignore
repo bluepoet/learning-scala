@@ -22,6 +22,7 @@
 .idea/**/misc.xml
 .idea/**/vcs.xml
 .idea/modules.xml
+.idea/compiler.xml
 
 # Gradle:
 .idea/**/gradle.xml
