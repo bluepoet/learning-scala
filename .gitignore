@@ -21,7 +21,8 @@
 .idea/**/hydra.xml
 .idea/**/misc.xml
 .idea/**/vcs.xml
-.idea/**/workspace.xml
+.idea/modules.xml
+.idea/compiler.xml
 
 # Gradle:
 .idea/**/gradle.xml
@@ -62,7 +63,7 @@ fabric.properties
 ### Intellij Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 
-# *.iml
+*.iml
 # modules.xml
 # .idea/misc.xml
 # *.ipr
