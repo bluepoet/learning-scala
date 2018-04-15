@@ -2,9 +2,9 @@ package net.bluepoet.chap02
 
 import org.scalatest.FlatSpec
 
-class Ex06Test extends FlatSpec {
+class Ex2_6 extends FlatSpec {
 
-  "sentence" should " have a phone number" in {
+  it should "sentence have a phone number" in {
     val s = "Frank,123 Main,925-555-1943,95122"
     val pattern = """.*,(\d{3})[ -](\d{3})[ -](\d{4}),.*""".r
 
